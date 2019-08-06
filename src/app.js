@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 
-const SEASONS = ['winter', 'spring', 'summer']
+const SEASONS = ['winter', 'spring', 'summer', 'autumn']
 
 app.use(express.json())
 
